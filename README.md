@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GraciousDaniel
 - 👀 I’m interested in coding applications and learning new skills!
-- 🌱 I’m currently learning dart for application programming
+- 🌱 I’m currently using flutter for application programming
 - 📫 How to reach me graciousdanieljnr@gmail.com
 
 <!---
